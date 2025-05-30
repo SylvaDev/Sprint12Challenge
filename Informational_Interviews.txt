@@ -1,0 +1,24 @@
+Name: Irving Duran
+
+Company: MatchHat
+
+Position: Full Stack Developer | Software Engineer
+
+Key Takeaways:
+- Start hosting projects online for recruiters to interact with
+- Learn Next.js as that'd be a huge plus in the market right now
+- Moving my discord posting to linkedIn and twitter to extend my reach
+
+
+
+Name: Joe Hernandez
+
+Company: Dear John Denim
+
+Position: Lead Backend Engineer and Web Designer
+
+Key Takeaways:
+- Teaching others and contributing to existing open-source projects is a good way to get noticed
+- Always improve and always learn. Tech stack to learn Next.js, Tailwind, GraphQL, Typescript
+- Capitalize on other projects. If someone has an app, try to make the same app but make it free. Good way to get noticed.
+- Extend my network for bigger outreach
